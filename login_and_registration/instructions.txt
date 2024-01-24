@@ -1,0 +1,8 @@
+Check the pipfile to see if it matches your Python version.
+Change the version in the pipfile if it doesn't match. 
+In the terminal from the directory level of server.py run
+python3 -m pipenv install
+or your computer's equavilant 
+
+At this point you should be able to start your environment, and run the server.
+Now change the password information in the SQL connection file to match your own.
